@@ -32,5 +32,5 @@ Comparación de tiempos de ejecución con diferentes tamaños de entrada.
 Justificación de las estrategias de optimización aplicadas.
 
 
-#### Fecha de Entrega: 14/03/2025
-#### Formato de Entrega: Código fuente y reporte en PDF.
+#### Fecha de Entrega: 21/03/2026
+#### Formato de Entrega: PDF con enlace al video y enlace al repositorio.
